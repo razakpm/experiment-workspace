@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "name": "Pg info",
+            "path": "github.com/wmfs/pg-info"
+        },
+        {
+            "name": "Diff sync",
+            "path": "github.com/wmfs/pg-diff-sync"
+        }        
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
