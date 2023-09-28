@@ -1,12 +1,12 @@
 {
     "folders": [
         {
-            "name": "Pg info",
-            "path": "github.com/wmfs/pg-info"
+            "name": "Auto-gpt",
+            "path": "github.com/Significant-Gravitas/AutoGPT"
         },
         {
-            "name": "Diff sync",
-            "path": "github.com/wmfs/pg-diff-sync"
+            "name": "Discourse",
+            "path": "github.com/discourse/discourse"
         }        
     ],
     "extensions": {
