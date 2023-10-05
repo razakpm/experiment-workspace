@@ -7,7 +7,11 @@
         {
             "name": "Discourse",
             "path": "github.com/discourse/discourse"
-        }        
+        },
+        {
+            "name": "pgroll",
+            "path": "github.com/xataio/pgroll"
+        }         
     ],
     "extensions": {
         "recommendations": [            
