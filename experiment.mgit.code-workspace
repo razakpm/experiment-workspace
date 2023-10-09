@@ -11,7 +11,11 @@
         {
             "name": "pgroll",
             "path": "github.com/xataio/pgroll"
-        }         
+        },
+        {
+            "name": "fopc",     
+            "path": "github.com/razakpm/gpm.fixedops.cc"
+        }
     ],
     "extensions": {
         "recommendations": [            
