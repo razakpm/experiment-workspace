@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "name": "SmartLean Admin Dashboard",
+            "path": "git.citrusinformatics.com/productsinitiative/smartlearn/smartlearn-administration-dashboard"
+        },
+        {
+            "name": "SmartLean BaaS",
+            "path": "git.citrusinformatics.com/productsinitiative/smartlearn/smartlearn-baas-code"
+        },
+        {
+            "name": "Hybrid mobile App",
+            "path": "git.citrusinformatics.com/productsinitiative/smartlearn/smartlearn-hybrid-mobile-application"
+        },
+        {
+            "name": "Appsmith Admin UI",     
+            "path": "git.citrusinformatics.com/productsinitiative/smartlearn/smartlearn-admin-console-ui"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
