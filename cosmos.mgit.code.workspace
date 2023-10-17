@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "name": "COSMOS Web UI",
+            "path": "git.citrusinformatics.com/somos-internal/cosmos-web-ui"
+        },
+        {
+            "name": "cosmos Python Server ",
+            "path": "git.citrusinformatics.com/somos-internal/cosmos-python-server"
+        },
+        {
+            "name": "CareManagement Backend",
+            "path": "git.citrusinformatics.com/somos-internal/somos-care-management-backend"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
