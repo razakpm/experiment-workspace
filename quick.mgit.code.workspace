@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "name": "XML to JSON",
+            "path": "github.com/lectio/ontology"
+        },
+        {
+            "name": "1115 hub",
+            "path": "github.com/qe-collaborative-services/1115-hub"
+        },
+        {
+            "name": "1115 GPM",
+            "path": "github.com/netspective/gpm.patientteam.com"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
