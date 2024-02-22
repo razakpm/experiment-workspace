@@ -11,7 +11,12 @@
         {
             "name": "1115 GPM",
             "path": "github.com/netspective/gpm.patientteam.com"
+        }, 
+        {
+            "name": "PRQL Sample",
+            "path": "github.com/razakpm/prql-postgres-sample"
         }
+
     ],
     "extensions": {
         "recommendations": [            
