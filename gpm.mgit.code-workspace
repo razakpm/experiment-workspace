@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "name": "GPM cybecys",
+            "path": "github.com/razakpm/gpm.cybecys.com"
+        },
+        {
+            "name": "GPM fopc",     
+            "path": "github.com/razakpm/gpm.fixedops.cc"
+        },
+        {
+            "name": "GPM opsfolio",     
+            "path": "opsfolio/gpm.opsfolio.com"
+        },
+        {
+            "name": "GPM Patient team",     
+            "path": "github.com/netspective/patientteam.com"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
