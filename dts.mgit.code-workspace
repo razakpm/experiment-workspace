@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "name": "DTS Research GCM",
+            "path": "github.com/Diabetes-Tech/gpm.researchhub.com"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}

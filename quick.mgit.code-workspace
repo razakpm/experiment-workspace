@@ -25,6 +25,8 @@
     "settings": {
         "git.autofetch": true,
         "terminal.integrated.fontFamily": "CascadianCode NF",
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        "prql.target": "Postgres",
+        "prql.addCompilerSignatureComment": true
     }
 }
