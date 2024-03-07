@@ -15,6 +15,10 @@
         {
             "name": "PRQL Sample",
             "path": "github.com/razakpm/prql-postgres-sample"
+        },
+        {
+            "name": "FOPC GPM",
+            "path": "git.netspective.io/netspective-foc3/fopc-infrastructure/fopc-gpm"
         }
 
     ],
