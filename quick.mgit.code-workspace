@@ -19,6 +19,11 @@
         {
             "name": "FOPC GPM",
             "path": "git.netspective.io/netspective-foc3/fopc-infrastructure/fopc-gpm"
+        },
+        {
+                    "name": "AWESOME CGM",
+                    "path": "github.com/irinagain/Awesome-CGM"
+        
         }
 
     ],
