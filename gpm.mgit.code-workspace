@@ -2,7 +2,7 @@
     "folders": [
         {
             "name": "GPM cybecys",
-            "path": "github.com/razakpm/gpm.cybecys.com"
+            "path": "github.com/netspective/gpm.cybecys.com"
         },
         {
             "name": "GPM fopc",     
@@ -15,6 +15,10 @@
         {
             "name": "GPM Patient team",     
             "path": "github.com/netspective/patientteam.com"
+        },
+        {
+            "name": "GPM DTS ",     
+            "path": "github.com/Diabetes-Tech/gpm.researchhub.com"
         }
     ],
     "extensions": {
