@@ -10,11 +10,11 @@
         },
         {
             "name": "GPM opsfolio",     
-            "path": "opsfolio/gpm.opsfolio.com"
+            "path": "github.com/opsfolio/gpm.opsfolio.com"
         },
         {
             "name": "GPM Patient team",     
-            "path": "github.com/netspective/patientteam.com"
+            "path": "github.com/netspective/gpm.patientteam.com"
         },
         {
             "name": "GPM DTS ",     
