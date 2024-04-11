@@ -24,6 +24,11 @@
                     "name": "AWESOME CGM",
                     "path": "github.com/irinagain/Awesome-CGM"
         
+        }, 
+        {
+                    "name": "Ingestion Center",
+                    "path": "github.com/vinodkalpaka01/ingestion-center"
+
         }
 
     ],
