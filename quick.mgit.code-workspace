@@ -29,6 +29,11 @@
                     "name": "Ingestion Center",
                     "path": "github.com/vinodkalpaka01/ingestion-center"
 
+        },
+        {
+                    "name": "Evidence sample- North str report",
+                    "path": "github.com/evidence-dev/northstar-report"
+
         }
 
     ],
