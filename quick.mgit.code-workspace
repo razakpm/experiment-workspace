@@ -34,7 +34,12 @@
                     "name": "Evidence Sample North star report",
                     "path": "github.com/evidence-dev/northstar-report"                            
 
-        }
+        },
+        {
+          "name": "FHIR Server",
+          "path": "github.com/FirelyTeam/fhirstarters"   
+        
+        },
 
     ],
     "extensions": {
