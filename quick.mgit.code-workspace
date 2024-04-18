@@ -39,7 +39,7 @@
           "name": "FHIR Server",
           "path": "github.com/FirelyTeam/fhirstarters"   
         
-        },
+        }
 
     ],
     "extensions": {
