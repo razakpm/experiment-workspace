@@ -19,6 +19,10 @@
         {
             "name": "GPM DRH ",     
             "path": "github.com/diabetes-research/gpm.diabetes-research-hub.com"
+        },
+        {
+            "name": "GPM HeltheLink",     
+            "path": "github.com/netspective/healthelink-docs-prime"
         }
     ],
     "extensions": {
