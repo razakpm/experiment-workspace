@@ -1,8 +1,20 @@
 {
     "folders": [
         {
-            "name": "DTS Research GCM",
+            "name": "DRH GPM",
             "path": "github.com/diabetes-research/gpm.diabetes-research-hub.com"
+        },
+        {
+            "name": "DRH WebSite",
+            "path": "github.com/diabetes-research/drh.diabetestechnology.org"
+        },
+        {
+            "name": "DRH IaC",
+            "path": "github.com/diabetes-research/infrastructure-prime"
+        },
+        {
+            "name": "DRH Ingestion Center",
+            "path": "github.com/diabetes-research/ingestion-center"
         }
     ],
     "extensions": {
