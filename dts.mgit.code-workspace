@@ -15,6 +15,10 @@
         {
             "name": "DRH Ingestion Center",
             "path": "github.com/diabetes-research/ingestion-center"
+        },
+        {
+            "name": "DRH Evidence",
+            "path": "github.com/diabetes-research/sql-visualize-hub"
         }
     ],
     "extensions": {
