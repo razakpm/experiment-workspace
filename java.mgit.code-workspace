@@ -1,0 +1,22 @@
+{
+    "folders": [       
+        {
+         "name": "1115 FHIR Java Server",
+          "path": "https://github.com/tech-by-design/polyglot-prime"  
+        }
+
+    ],
+    "extensions": {
+         "recommendations": [
+        "denoland.vscode-deno",
+        "yzhang.markdown-all-in-one",
+        "vscjava.vscode-java-pack",
+        "vmware.vscode-boot-dev-pack"
+    ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true        
+    }
+}
