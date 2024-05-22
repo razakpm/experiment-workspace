@@ -7,10 +7,6 @@
         {
             "name": "1115 hub",
             "path": "github.com/qe-collaborative-services/1115-hub"
-        },
-        {
-            "name": "Patient team GPM",
-            "path": "github.com/netspective/gpm.patientteam.com"
         }, 
         {
             "name": "PRQL Sample",
@@ -24,21 +20,10 @@
                     "name": "AWESOME CGM",
                     "path": "github.com/irinagain/Awesome-CGM"
         
-        }, 
-        {
-                    "name": "Ingestion Center",
-                    "path": "github.com/vinodkalpaka01/ingestion-center"
-
         },
         {
-                    "name": "Evidence Sample North star report",
-                    "path": "github.com/evidence-dev/northstar-report"                            
-
-        },
-        {
-          "name": "FHIR Server",
-          "path": "github.com/FirelyTeam/fhirstarters"   
-        
+         "name": "1115 FHIR Java Server",
+          "path": "https://github.com/tech-by-design/polyglot-prime"  
         }
 
     ],
