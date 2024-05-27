@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "name": "HeL AI Experiment Mono Repo",
+            "path": "github.com/naufalnazeer/netspective"
+        },
+        {
+            "name": "Netspective Doc Prime",
+            "path": "github.com/netspective/healthelink-docs-prime"
+        },
+        {
+            "name": "Netspective IaC",
+            "path": "github.com/netspective/healthelink-ai-expr-IaC-prime"
+        },
+        {
+            "name": "Netspective IaC",
+            "path": "github.com/healTHeLINK/healthelink-ai"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
