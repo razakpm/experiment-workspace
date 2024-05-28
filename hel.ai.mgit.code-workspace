@@ -1,7 +1,7 @@
 {
     "folders": [
         {
-            "name": "HeL AI Experiment Mono Repo",
+            "name": "Trial Mono Repo",
             "path": "github.com/naufalnazeer/netspective"
         },
         {
@@ -13,7 +13,7 @@
             "path": "github.com/netspective/healthelink-ai-expr-IaC-prime"
         },
         {
-            "name": "Netspective IaC",
+            "name": "HEALTHeLINK AI Mono Repo ",
             "path": "github.com/healTHeLINK/healthelink-ai"
         }
     ],
