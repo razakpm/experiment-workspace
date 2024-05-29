@@ -1,8 +1,12 @@
 {
     "folders": [       
         {
-         "name": "1115 FHIR Java Server",
+         "name": "1115 FHIR Polyglot-Prime",
           "path": "github.com/tech-by-design/polyglot-prime"  
+        },
+        {
+         "name": "1115 FHIR Docs TechBD",
+          "path": "github.com/tech-by-design/docs.techbd.org"  
         }
 
     ],
