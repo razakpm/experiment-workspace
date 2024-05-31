@@ -15,6 +15,10 @@
         {
             "name": "HEALTHeLINK AI Mono Repo ",
             "path": "github.com/healTHeLINK/healthelink-ai"
+        },
+        {
+            "name": "Mono repo with NX ",
+            "path": "github.com/naufalnazeer/astro_monorepo"
         }
     ],
     "extensions": {
