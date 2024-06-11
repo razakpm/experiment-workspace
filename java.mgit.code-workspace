@@ -5,6 +5,10 @@
           "path": "github.com/tech-by-design/polyglot-prime"  
         },
         {
+         "name": "Infrastructure Prime",
+          "path": "github.com/tech-by-design/infrastructure-prime"  
+        },
+        {
          "name": "1115 FHIR Docs TechBD",
           "path": "github.com/tech-by-design/docs.techbd.org"  
         },
