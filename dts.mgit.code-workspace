@@ -19,6 +19,10 @@
         {
             "name": "DRH Evidence",
             "path": "github.com/diabetes-research/sql-visualize-hub"
+        },
+        {
+            "name": "DRH Java",
+            "path": "github.com/diabetes-research/drh-polyglot-prime"
         }
     ],
     "extensions": {
