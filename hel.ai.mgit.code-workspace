@@ -1,24 +1,8 @@
 {
     "folders": [
-        {
-            "name": "Trial Mono Repo",
-            "path": "github.com/naufalnazeer/netspective"
-        },
-        {
-            "name": "Netspective Doc Prime",
-            "path": "github.com/netspective/healthelink-docs-prime"
-        },
-        {
-            "name": "Netspective IaC",
-            "path": "github.com/netspective/healthelink-ai-expr-IaC-prime"
-        },
-        {
+       {
             "name": "HEALTHeLINK AI Mono Repo ",
             "path": "github.com/healTHeLINK/healthelink-ai"
-        },
-        {
-            "name": "Mono repo with NX ",
-            "path": "github.com/naufalnazeer/astro_monorepo"
         }
     ],
     "extensions": {
