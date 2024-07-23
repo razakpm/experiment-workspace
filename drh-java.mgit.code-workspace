@@ -1,0 +1,53 @@
+{
+    "folders": [               
+        {
+         "name": "Razak Forked TechBD Polyglot-Prime",
+          "path": "github.com/razakpm/polyglot-prime"  
+        }
+    ],
+    "extensions": {
+         "recommendations": [
+        "denoland.vscode-deno",
+        "yzhang.markdown-all-in-one",
+        "vscjava.vscode-java-pack",
+        "vmware.vscode-boot-dev-pack", 
+        "mikestead.dotenv",
+      "denoland.vscode-deno",
+      "ms-ossdata.vscode-postgresql",
+      "frigus02.vscode-sql-tagged-template-literals",
+      "humao.rest-client",
+      "graphql.vscode-graphql",      
+      "skellock.just",
+      "shd101wyy.markdown-preview-enhanced",
+      "mechatroner.rainbow-csv",
+      "bungcip.better-toml",
+      "alexander-yu.vscode-open",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "bradymholt.pgformatter"
+    ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true ,
+        "deno.codeLens.implementations": false,   
+        "deno.suggest.imports.hosts": {
+          "https://deno.land": false,
+          "https://cdn.pika.dev": false,
+          "https://cdn.dreg.dev": false,
+          "https://denopkg.com": false
+        },
+    "files.associations": {
+      ".rfignore": "ignore",
+      ".envrc.example": "dotenv"
+    },
+    "open.fileMappings": [],
+    "open.uriMappings": [],
+    "rest-client.previewOption": "exchange",
+    "deno.lint": true,
+    "deno.unstable": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+    }
+}
