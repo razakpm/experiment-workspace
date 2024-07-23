@@ -1,26 +1,5 @@
 {
-    "folders": [
-        {
-            "name": "XML to JSON",
-            "path": "github.com/lectio/ontology"
-        },
-        {
-            "name": "1115 hub",
-            "path": "github.com/qe-collaborative-services/1115-hub"
-        }, 
-        {
-            "name": "PRQL Sample",
-            "path": "github.com/razakpm/prql-postgres-sample"
-        },
-        {
-            "name": "FOPC GPM",
-            "path": "git.netspective.io/netspective-foc3/fopc-infrastructure/fopc-gpm"
-        },
-        {
-                    "name": "AWESOME CGM",
-                    "path": "github.com/irinagain/Awesome-CGM"
-        
-        },
+    "folders": [        
         {
          "name": "1115 FHIR Java Server",
           "path": "github.com/tech-by-design/polyglot-prime"  
