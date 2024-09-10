@@ -2,7 +2,7 @@
     "folders": [        
         {
          "name": "1115 FHIR Java Server",
-          "path": "git.netspective.io:netspective-labs/reference-project/react-code-quality-reference-project"  
+          "path": "git.netspective.io/netspective-labs/reference-project/react-code-quality-reference-project"  
         }
 
     ],
