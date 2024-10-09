@@ -1,0 +1,18 @@
+{
+    "folders": [        
+        {
+         "name": "CRM UI ivoyant Auth Flip application",
+          "path": "ivoyant@dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/Crm-ui"  
+        }
+
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true        
+    }
+}
