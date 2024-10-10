@@ -1,8 +1,20 @@
 {
     "folders": [        
         {
-         "name": "CRM UI ivoyant Auth Flip application",
-          "path": "ivoyant@dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/Crm-ui"  
+         "name": "flip-auth-android-app",
+          "path": "https://dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/flip-auth-android-app"  
+        },
+        {
+         "name": "Flipauth_ML_offerings",
+          "path": "https://dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/Flipauth_ML_offerings"  
+        },
+        {
+         "name": "reverse-auth-api",
+          "path": "https://dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/reverse-auth-api"  
+        },
+        {
+         "name": "reverse-auth-api",
+          "path": "https://ivoyant@dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/reverse-auth-be-api"  
         }
 
     ],
