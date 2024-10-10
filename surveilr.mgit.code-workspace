@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "name": "surveilr.com",
+            "path": "github.com/surveilr/www.surveilr.com"
+        },
+        {
+            "name": "infrastructure prime",
+            "path": "https://github.com/surveilr/infrastructure-prime"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
