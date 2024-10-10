@@ -6,7 +6,7 @@
         },
         {
             "name": "infrastructure prime",
-            "path": "https://github.com/surveilr/infrastructure-prime"
+            "path": "github.com/surveilr/infrastructure-prime"
         }
     ],
     "extensions": {
