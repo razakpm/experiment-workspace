@@ -13,7 +13,7 @@
           "path": "dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/reverse-auth-api"  
         },
         {
-         "name": "reverse-auth-api",
+         "name": "reverse-auth-be-api",
           "path": "ivoyant@dev.azure.com/ivoyant/Auth%20Flip%20Application/_git/reverse-auth-be-api"  
         }
 
