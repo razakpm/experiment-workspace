@@ -23,6 +23,10 @@
         {
             "name": "DRH Java",
             "path": "github.com/diabetes-research/polyglot-prime"
+        },
+        {
+            "name": "DRH Surveilr",
+            "path": "github.com/surveilr/www.surveilr.com"
         }
     ],
     "extensions": {
