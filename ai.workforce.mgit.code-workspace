@@ -1,0 +1,17 @@
+{
+    "folders": [
+       {
+            "name": "Ai workforce",
+            "path": "github.com/netspective-labs/ai-workforce"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
