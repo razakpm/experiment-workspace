@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "name": "Solas EOH",
+            "path": "github.com/opsfolio/solasai.hub.opsfolio.com"
+        }
+    ],
+    "extensions": {
+        "recommendations": [            
+        ]
+    },
+    "settings": {
+        "git.autofetch": true,
+        "terminal.integrated.fontFamily": "CascadianCode NF",
+        "editor.formatOnSave": true
+    }
+}
